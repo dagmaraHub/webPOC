@@ -19,6 +19,7 @@ public class AlertStoreTest {
 	public Alert alert1;
 	public Alert alert2;
 	public Alert alert3;
+	public Alert alert4s;
 
 	@BeforeEach
 	public void setUp() {
